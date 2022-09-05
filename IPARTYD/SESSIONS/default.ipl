@@ -1,0 +1,13 @@
+// default ipl server file.
+// Create one of these files for each session.
+
+// this session is accessed via "iparty://your.machine.name/default.ipl"
+
+Session {
+    sessID { -1, 1, 5};	// Increment this number for each session file you create.
+
+    ConnectMax 30;	// Each listener consumes about 13Kbits per talker.
+			// 30 listeners = 390Kbits per simultaneous talker.
+			// 6 simultaneous talkers = 2.3Mbits (20% of a 10Mbit ethernet).
+};
+

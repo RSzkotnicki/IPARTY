@@ -1,8 +1,8 @@
 # IPARTY
 Internet Party Line: Multi-person Audio Chat (IPARTY Version 1.2) By Intel 1995
 
-This old software oddly still works well in all versions of windows including (windows 10, windows 11).
-I was even able to host the daemon in amazon lightsail without any issues.
+<h2>This old software oddly still works well in all versions of windows including (windows 10, windows 11).
+I was even able to host the daemon in amazon lightsail without any issues.</h2>
 
 
 November 12, 1995
